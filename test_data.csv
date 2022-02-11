@@ -1,0 +1,50 @@
+﻿BASKET_SIZE,EXTN_COMPOSITION,CARRIER_SERVICE_CODE_OL,CATEGORY,COUNTRY_OF_ORIGIN_OI,DAY_OF_MONTH,DAY_OF_WEEK,DAY_OF_YEAR,EXTN_BRAND,EXTN_DISCOUNT_ID,EXTN_IS_GIFT,EXTN_IS_PREORDER,EXTN_SHIP_TO_CITY,EXTN_SHIP_TO_COUNTRY,EXTN_SEASON,LIST_PRICE,MONTH_OF_YEAR,OTHER_CHARGES,OTHER_CHARGES_OL,REQ_DELIVERY_DATE,TOTAL_AMOUNT_USD,WEEKEND,ZIP_CODE,MTS_CTS,HOUR_OF_DAY,LOCKID,Gender,RETURN_FLAG
+1,"90% Viscose, 10% Elastane",STANDARD,Maniche Lunghe,US,25,Saturday,329,XYZAL,None,N,N,Largo,US,FW17,150,11,0,-34,0,36.38,1,Zipcode_139,16,2,189,Female,0
+1,N,STANDARD,Maniche Lunghe,CN,25,Saturday,329,XYZBE,None,N,N,brooklyn,US,FW17,395,11,0,0,0,577.04,1,Zipcode_352,17,5,203,Female,0
+1,N,EXPRESS,Maniche Lunghe,TR,21,Tuesday,325,XYZAT,None,N,N,St Helier,JE,FW17,155,11,19,0,0,388.9493407,0,Zipcode_684,13,21,145,Female,0
+1,100% Cotton,EXPRESS,Mini,PT,25,Saturday,329,XYZCC,None,N,N,singapore,SG,FW17,199,11,146.37,-42.5,0,2212.37,1,Zipcode_159,17,5,238,Female,0
+1,N,EXPRESS,Vestiti al Ginocchio,CN,5,Sunday,309,XYZAQ,None,N,N,Suita city,JP,FW17,58195,11,3500,0,0,444.3339731,1,Zipcode_235,15,16,207,Male,0
+1,100% Cotton,STANDARD,Coverups,CN,11,Saturday,315,XYZDN,None,N,N,Evanston,US,FW17,345,11,0,0,0,1272.88,1,Zipcode_568,14,21,178,Female,0
+1,N,EXPRESS,Maglia Media,HU,29,Wednesday,333,XYZBZ,None,N,N,Bayan,KW,FW17,570,11,97.95,0,0,1011.95,0,Zipcode_313,13,22,157,Female,0
+5,"46% Viscose, 54% Virgin Wool",NEXT_DAY_DELIVERY,Maglia Media,RO,23,Thursday,327,XYZFT,None,N,N,London,GB,FW17,250,11,8,0,0,1029.2605,0,Zipcode_206,19,11,224,Female,1
+3,"67% Polyamide, 33% Elastercell",STANDARD,Reggiseni Sportivi,US,26,Sunday,330,XYZGV,None,N,N,EDINBURGH,GB,SS17,105,11,2.5,-26,0,103.8521199,1,Zipcode_425,13,9,154,Female,0
+1,N,STANDARD,Cappotti Corti,PL,28,Tuesday,332,XYZGN,None,N,N,New York,US,FW17,850,11,0,0,0,370.18,0,Zipcode_262,14,6,169,Female,0
+7,100% Rayon,STANDARD,Senza Maniche,VN,25,Saturday,329,XYZBI,None,N,N,Wellfleet,US,FW17,80,11,0,0,0,307.5,1,Zipcode_352,16,21,182,Female,0
+3,"60% Cotton, 40% Tencel",STANDARD,Jeans Gamba Dritta,US,28,Tuesday,332,XYZAW,None,N,N,London,GB,FW17,202,11,0,0,0,386.3034268,0,Zipcode_141,14,23,162,Female,0
+3,"92% Cotton, 8% Elastane",STANDARD,Maniche Corte,US,11,Saturday,315,XYZAR,None,N,N,London,GB,FW17,65,11,2.5,0,0,277.1594792,1,Zipcode_231,14,16,183,Female,0
+32,N,STANDARD,Maniche a 3/4,CN,9,Thursday,313,XYZBQ,None,N,N,Tavistock,GB,FW17,237,11,2.5,0,0,214.9805029,0,Zipcode_234,14,21,178,Male,1
+31,"43% Viscose, 33% Cotton, 17% Lyocell, 5% Polyester, 2% Elastane",EXPRESS,Jeans Svasati,US,15,Wednesday,319,XYZAR,None,N,N,Split,HR,FW17,294,11,17,0,0,171.7894638,0,Zipcode_206,12,19,148,Female,0
+37,N,STANDARD,Vestiti da Sera,CN,28,Tuesday,332,XYZCM,None,N,N,Hillsboro,US,FW17,595,11,0,-149,0,3937.5,0,Zipcode_191,14,12,168,Female,0
+1,N,PREMIER_DAYTIME,Vestiti Midi,IT,25,Saturday,329,XYZCH,None,N,N,New York,US,FW17,2975,11,25,0,0,5063.9,1,Zipcode_351,7,5,94,Female,0
+1,100% Cotton,STANDARD,Coverups,PL,18,Saturday,322,XYZOM,None,N,N,palm beach,US,FW17,390,11,0,0,0,524.3,1,Zipcode_156,19,19,185,Female,0
+3,N,EXPRESS,Maniche Lunghe,IT,12,Sunday,316,XYZIF,None,N,N,Hong Kong,HK,FW17,1327,11,200,0,0,330.0003427,1,Zipcode_383,24,3,229,Female,1
+1,100% Lambskin,STANDARD,Gilet e Smanicati,GB,25,Saturday,329,XYZJS,None,N,N,Dallas,US,FW17,495,11,0,0,0,294.44,1,Zipcode_966,16,17,182,Male,0
+1,"90% Polyester, 10% Elastane",STANDARD,Spalle Scoperte,US,29,Wednesday,333,XYZHX,None,N,N,Bexhill on Sea,GB,FW17,221,11,2.5,0,0,134.2801295,0,Zipcode_695,13,16,154,Female,0
+1,N,STANDARD,Maniche Lunghe,CN,30,Thursday,334,XYZJM,None,N,N,NORTHVALE,US,FW17,258,11,0,-64.8,0,43.2,0,Zipcode_279,12,11,145,Female,0
+13,"73% Nylon, 27% Elastane",STANDARD,Bikini,CN,29,Wednesday,333,XYZBX,None,N,N,CHapelizod,IE,FW17,52,11,13,0,0,396.7630629,0,Zipcode_117,13,22,153,Male,0
+3,"91% Nylon, 9% Elastercell",STANDARD,Bikini,US,18,Saturday,322,XYZBA,None,N,N,Los Angeles,US,FW17,75,11,0,0,0,165.35,1,Zipcode_401,24,19,277,Female,0
+1,N,STANDARD,Tute Lunghe,CN,24,Friday,328,XYZNX,None,N,N,Ringwood,GB,FW17,630,11,2.5,0,0,420.0388288,0,Zipcode_328,18,22,205,Female,0
+1,N,STANDARD,High Heel Boots,IT,4,Saturday,308,XYZAB,None,N,N,Berlin,DE,FW17,450,11,10,0,0,303.573162,1,Zipcode_238,19,9,256,Male,1
+3,100% Cashmere,STANDARD,Guanti in Maglia,CN,29,Wednesday,333,XYZEQ,None,N,N,london,GB,FW17,79,11,0,0,0,178.0700043,0,Zipcode_204,13,12,156,Female,0
+9,N,STANDARD,Vestiti Mini,US,17,Friday,321,XYZCI,None,N,N,Mahwah,US,FW17,325,11,0,-48.6,0,783.3,0,Zipcode_357,25,18,289,Female,0
+4,"62% Viscose, 38% Linen",EXPRESS,Vestiti Mini,CN,10,Friday,314,XYZAP,None,N,N,SYDNEY,AU,SS17,353,11,20,0,0,318.3291157,0,Zipcode_108,19,23,242,Female,1
+1,100% Leather,STANDARD,Flat Boots,CN,10,Friday,314,XYZDI,None,N,N,Cork,IE,FW17,151,11,13,0,0,103.5443343,0,Zipcode_855,13,16,170,Male,1
+10,N,STANDARD,Pantaloni Gamba Dritta,US,25,Saturday,329,XYZAL,None,N,N,key largo,US,FW17,325,11,0,-79,0,1053.52,1,Zipcode_386,16,4,191,Female,0
+3,N,STANDARD,Giacche Smart,CN,22,Wednesday,326,XYZBP,None,N,N,Terre Haute,US,FW17,695,11,0,-156,0,239.68,0,Zipcode_218,15,19,171,Female,0
+1,100% Cotton,EXPRESS,Bikini,CN,9,Thursday,313,XYZDT,None,N,N,Seoul,KR,FW17,145,11,25,0,0,97,0,Zipcode_355,14,3,192,Female,0
+2,N,STANDARD,Loafers,VN,28,Tuesday,332,XYZBL,None,N,N,Berlin,DE,FW17,145,11,10,0,0,456.5363832,0,Zipcode_405,13,15,153,Female,0
+1,"70% Cashmere, 30% Silk",STANDARD,Maglia Fine,IT,19,Sunday,323,XYZDV,None,N,N,Milano,IT,FW17,328,11,5,-29.6,0,145.1973961,1,Zipcode_317,13,23,150,Female,0
+5,"79% Polyamide, 21% Elastane",NEXT_DAY_DELIVERY,Slip,CN,29,Wednesday,333,XYZDN,None,N,N,Stuttgart,DE,FW17,30,11,22,0,0,545.9610356,0,Zipcode_105,13,13,159,Female,0
+34,100% Viscose,EXPRESS,Maniche Lunghe,IN,27,Monday,331,XYZFZ,None,N,N,HongKong,HK,FW17,1036,11,200,-259,0,2037.009103,0,Zipcode_284,15,4,250,Female,0
+1,100% Silk,EXPRESS,Vestiti Midi,CN,7,Tuesday,311,XYZAQ,None,N,N,Upper Hutt,NZ,FW17,784,11,20,0,0,255,0,Zipcode_256,13,9,180,Female,0
+1,100% Leather,EXPRESS,Mid Heel Boots,CN,18,Saturday,322,XYZAV,None,N,N,Zagreb,HR,FW17,501,11,17,0,0,314.1629235,1,Zipcode_394,14,12,168,Female,0
+2,N,STANDARD,Vestiti Mini,TN,17,Friday,321,XYZGC,None,N,N,Rancho Santa Margarita,US,FW17,493,11,0,0,0,448.25,0,Zipcode_180,25,23,289,Female,0
+6,100% Cashmere,EXPRESS,Maglia Media,CN,22,Wednesday,326,XYZJM,None,N,N,Panania,AU,FW17,412,11,20,-92.5,0,587.8019642,0,Zipcode_242,20,17,252,Female,1
+1,100% Bovine,EXPRESS,Tote Bag,CN,17,Friday,321,XYZBU,None,N,N,Seoul,KR,FW17,753,11,0,0,0,0,0,Zipcode_171,12,13,121,Female,0
+13,100% Cotton,EXPRESS,Jeans Gamba Dritta,IT,24,Friday,328,XYZDW,None,N,N,Tai Tam,HK,SS17,1368,11,200,-274,0,834.6728388,0,Zipcode_171,18,13,233,Female,0
+10,"72% Viscose, 28% Polyester",EXPRESS,Vestiti Midi,CN,6,Monday,310,XYZBF,None,N,N,monaco,MC,SS17,98,11,17,0,0,1341.369786,0,Zipcode_485,14,18,183,Female,0
+4,100% Polyester,STANDARD,Vestiti Mini,IT,22,Wednesday,326,XYZES,None,N,N,Swaffham,GB,FW17,1730,11,2.5,-389,0,598.6380158,0,Zipcode_176,15,22,174,Female,1
+2,100% Cotton,STANDARD,Maniche Lunghe,MA,22,Wednesday,326,XYZGU,None,N,N,White Plains,US,FW17,105,11,0,-29,0,466.84,0,Zipcode_554,15,17,173,Male,0
+1,N,STANDARD,Senza Maniche,CN,29,Wednesday,333,XYZEY,None,N,N,Torrance,US,FW17,375,11,0,-100.8,0,242.21,0,Zipcode_272,13,9,158,Female,0
+1,"81% Cashmere, 17% Polyamide, 2% Elastane",STANDARD,Maglia Media,CN,19,Sunday,323,XYZBH,None,N,N,London,GB,FW17,208,11,2.5,0,0,140.8949142,1,Zipcode_157,19,23,152,Female,0
+1,100% Leather,STANDARD,Flat Boots,BR,29,Wednesday,333,XYZBU,None,N,N,BOULDER,US,SS17,425,11,0,-102,0,70.72,0,Zipcode_141,13,16,155,Female,0
